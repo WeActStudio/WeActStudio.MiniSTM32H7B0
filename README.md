@@ -37,8 +37,8 @@
 
 ### 芯片批号 Chip Date Code
 | STM32H7B0VBT6 |
-| :--: | :--: |
-|Date Codee|
+| :--: |
+| Date Code |
 |131 (2021.07)|
 
 ### 淘宝
